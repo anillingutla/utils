@@ -1,3 +1,4 @@
+//UTIITIES FOR JENKINS DECLARATIVE PIPELINES 
 import static groovy.json.JsonOutput.prettyPrint
 import static groovy.json.JsonOutput.toJson
 
